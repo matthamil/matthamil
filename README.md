@@ -9,11 +9,11 @@
 
 ---
 
-I'm a Senior Software Developer at [**Form Health**](https://formhealth.co/). In the past, I've worked as a Front-end Web Developer, and a Mobile Developer, a DX Engineer (at [**Cypress.io**](https://cypress.io)), and a technical reviewer ([**React Native Cookbook**](https://www.oreilly.com/library/view/react-native-cookbook/9781491993835/)).
+I'm a Senior Software Developer at [**Form Health**](https://formhealth.co/). In the past, I've worked as a Front-end Web Developer, a Mobile Developer, a DX Engineer (at [**Cypress.io**](https://cypress.io)), and a technical reviewer ([**React Native Cookbook**](https://www.oreilly.com/library/view/react-native-cookbook/9781491993835/)).
 
 I'm a firm believer of "to teach is to learn twice." That's why I love public speaking and talking about JavaScript, the Web, and interesting solutions to programming problems. Feel free to check out some of my [**talks**](https://www.github.com/matthamil/talks/).
 
-- 💬 Ask me about [**React Native**](https://reactnative.dev/), [**React**](https://reactjs.org/) and [**TypeScript**](https://www.typescriptlang.org/)
+- 💬 Ask me about [**React Native**](https://reactnative.dev/), [**React**](https://reactjs.org/), and [**TypeScript**](https://www.typescriptlang.org/)
 - 🌱 I’m currently learning [**Go**](https://go.dev/)
 - 📫 How to reach me: Send me a message on [**Twitter**](https://twitter.com/_matthamil) or [**LinkedIn**](https://linkedin.com/in/matthamil)
 
