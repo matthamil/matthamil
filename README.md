@@ -13,7 +13,7 @@ I'm a Senior Software Engineer at [**Form Health**](https://formhealth.co/). In 
 
 I'm a firm believer of "to teach is to learn twice." That's why I love public speaking and talking about JavaScript, the Web, and interesting solutions to programming problems. I've given talks at both [**local**](https://www.meetup.com/nashreact-meetup/) [**meetups**](https://www.meetup.com/nashjs/) and conferences like [**Nodevember**](http://nodevember.org/) and [**ReactBoston**](https://www.youtube.com/watch?v=Vx9BeQSCAnc). Feel free to check out some of my [**talks**](https://www.github.com/matthamil/talks/).
 
-- 💬 Ask me about [**React Native**](https://reactnative.dev/), [**React**](https://reactjs.org/), and [**TypeScript**](https://www.typescriptlang.org/)
+- 💬 Ask me about [**React Native**](https://reactnative.dev/), [**React**](https://reactjs.org/), [**TypeScript**](https://www.typescriptlang.org/), or my cat (Arya).
 - 🌱 I’m currently learning [**Go**](https://go.dev/) and [**Python**](https://www.python.org/)
 - 📫 How to reach me: Send me a message on [**Twitter**](https://twitter.com/_matthamil) or [**LinkedIn**](https://linkedin.com/in/matthamil)
 
