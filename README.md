@@ -28,7 +28,7 @@ Tech I love:
 <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="26"/></a> •
 <a title="React Native" href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-<img align="center"  src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="20" height="26"/></a> •
+<img align="center"  src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="26" height="26"/></a> •
 <a title="GraphQL" href="https://graphql.org" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="20" height="26"/></a> •
 <a title="Go" href="https://golang.org" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="26"/></a> •
 <a title="Kotlin" href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="26"/></a> •
