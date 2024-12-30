@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 
 <p align="center">
-  he/they •
+  he/they/idc •
   <a title="Twitter" href="https://twitter.com/_matthamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_matthamil" height="20" width="27" /></a> •
   <a title="LinkedIn" href="https://linkedin.com/in/matthamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthamil" height="20" width="27" /></a>
 </p>
