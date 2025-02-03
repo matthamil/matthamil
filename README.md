@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
 
 <p align="center">
-  he/they/idc •
   <a title="Twitter" href="https://twitter.com/_matthamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_matthamil" height="20" width="27" /></a> •
   <a title="LinkedIn" href="https://linkedin.com/in/matthamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthamil" height="20" width="27" /></a>
 </p>
@@ -16,7 +15,7 @@ I'm a firm believer of "to teach is to learn twice." That's why I love public sp
 
 - 💬 Ask me about [**React Native**](https://reactnative.dev/), [**React**](https://reactjs.org/), [**TypeScript**](https://www.typescriptlang.org/), or my cat (Arya)
 - 🌱 I’ve been dabbling with [**Go**](https://go.dev/) and [**Python**](https://www.python.org/) in my free time
-- 📫 How to reach me: Send me a message on [**Twitter**](https://twitter.com/_matthamil) (I rarely check DMs—best to @ me in a Tweet) or [**LinkedIn**](https://linkedin.com/in/matthamil)
+- 📫 How to reach me: Message me on [**LinkedIn**](https://linkedin.com/in/matthamil)
 
 ---
 
